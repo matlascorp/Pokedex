@@ -1,0 +1,6 @@
+com/qa/pokedex/services/Services.class
+com/qa/pokedex/repo/Repo.class
+com/qa/pokedex/controller/Controller.class
+com/qa/pokedex/model/Pokemon.class
+com/qa/pokedex/PokedexApplication.class
+com/qa/pokedex/testing/ControllerTest.class
